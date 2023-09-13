@@ -1,0 +1,71 @@
+eps: 0.005 L: 10 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.951348 Average Predictive Likelihood: -0.10524448700393758
+train
+ predictive Accuracy: 0.9578990825688073 Average Predictive Likelihood: -0.09795960293458364
+
+eps: 0.005 L: 20 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.951582 Average Predictive Likelihood: -0.10470718695670607
+train
+ predictive Accuracy: 0.9578061926605504 Average Predictive Likelihood: -0.09778779813586516
+
+eps: 0.005 L: 50 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9514539999999999 Average Predictive Likelihood: -0.10475002703984174
+train
+ predictive Accuracy: 0.957834862385321 Average Predictive Likelihood: -0.09773267428025395
+
+eps: 0.01 L: 10 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.951654 Average Predictive Likelihood: -0.10456169564296468
+train
+ predictive Accuracy: 0.9581261467889908 Average Predictive Likelihood: -0.09771691156336888
+
+eps: 0.01 L: 20 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9514779999999999 Average Predictive Likelihood: -0.1048487658200694
+train
+ predictive Accuracy: 0.95786123853211 Average Predictive Likelihood: -0.09777494588417227
+
+eps: 0.01 L: 50 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9514459999999999 Average Predictive Likelihood: -0.10476042484138232
+train
+ predictive Accuracy: 0.957946100917431 Average Predictive Likelihood: -0.09767465109720817
+
+eps: 0.02 L: 10 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9513659999999999 Average Predictive Likelihood: -0.10487519841938311
+train
+ predictive Accuracy: 0.9578864678899083 Average Predictive Likelihood: -0.09778156219766228
+
+eps: 0.02 L: 20 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9514879999999999 Average Predictive Likelihood: -0.10486290334516625
+train
+ predictive Accuracy: 0.9579002293577983 Average Predictive Likelihood: -0.09776407393397586
+
+eps: 0.02 L: 50 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9513440000000001 Average Predictive Likelihood: -0.10484280233238388
+train
+ predictive Accuracy: 0.9579071100917431 Average Predictive Likelihood: -0.09777241111513174
+
+eps: 0.05 L: 10 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.94029 Average Predictive Likelihood: -0.19389743441831347
+train
+ predictive Accuracy: 0.9478211009174312 Average Predictive Likelihood: -0.17276427925783902
+
+eps: 0.05 L: 20 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.9353599999999999 Average Predictive Likelihood: -0.28993004752440515
+train
+ predictive Accuracy: 0.944841743119266 Average Predictive Likelihood: -0.251132794891357
+
+eps: 0.05 L: 50 Acceptance rate: 1.0
+test
+ predictive Accuracy: 0.922686 Average Predictive Likelihood: -0.5766349904350888
+train
+ predictive Accuracy: 0.9324185779816514 Average Predictive Likelihood: -0.4994436193403257
